@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://marianfoo.github.io/ui5-cc-excelUpload/</loc>
+         <lastmod>2023-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marianfoo.github.io/ui5-cc-excelUpload/pages/Configuration/</loc>
+         <lastmod>2023-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marianfoo.github.io/ui5-cc-excelUpload/pages/Events/</loc>
+         <lastmod>2023-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marianfoo.github.io/ui5-cc-excelUpload/pages/GettingStarted/</loc>
+         <lastmod>2023-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marianfoo.github.io/ui5-cc-excelUpload/pages/SupportVersions/</loc>
+         <lastmod>2023-01-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
